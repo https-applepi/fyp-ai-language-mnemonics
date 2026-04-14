@@ -9,5 +9,5 @@ This folder includes:
 ## Privacy note
 All participant data stored here has been anonymised. No personally identifying information is included.
 
-- `Quiz1_responses.xlsx`
-- `Quiz2_responses.xlsx`
+- `Quiz1_response.xlsx`
+- `Quiz2_response.xlsx`
