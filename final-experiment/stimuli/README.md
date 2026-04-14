@@ -13,7 +13,7 @@ The final study focused on 10 Polish vocabulary items chosen for beginner-level 
 | okno | window | a broken window with an “oh no!” reaction helps cue *okno* | okno.png |
 | pies | dog | a dog associated with pies helps cue *pies* | pies.png |
 | ser | cheese | a “sir” linked to cheese helps cue *ser* | ser.png |
-| zima | winter | a winter scene linked to “zip” or a similar sound cue helps cue *zima* | zima.png |
+| zima | winter | a winter scene linked to “zebra” helps cue *zima* | zima.png |
 | sklep | shop/store | a shop scene linked with a skeleton cue helps cue *sklep* | sklep.png |
 | stary | old | an old-looking star helps cue *stary* | stary.png |
 | torba | bag | a torn bag helps cue *torba* | torba.png |
