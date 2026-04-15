@@ -43,6 +43,15 @@ Contains anonymised participant response data, cleaned data files, and any suppo
 ### `final-experiment/results/`
 Contains summaries of the immediate and delayed results, along with short interpretations of the findings.
 
+### `final-experiment/experiment-design/`
+Contains the materials describing how the final experiment was structured, the study procedure, the group allocation and condition mapping, the participant inclusion criteria.
+
+### `final-experiment/revised-stimuli/`
+Contains revised versions of the mnemonic images developed after analysing participant feedback and experimental errors. These are included to show how the stimuli could be improved in future iterations.
+
+### `final-experiment/survey-materials/`
+Contains the participant-facing materials used to run the study, such as learning sheets, quiz questions, emails sent.
+
 ### `criteria/`
 Contains the quality criteria used to judge whether an AI-generated mnemonic image was acceptable, clear, and educationally useful.
 
