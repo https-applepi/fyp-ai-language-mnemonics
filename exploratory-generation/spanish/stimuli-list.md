@@ -4,22 +4,22 @@ This file lists the Spanish vocabulary items explored for mnemonic generation an
 
 ## 1. casa
 - **English meaning:** house
-- **Mnemonic idea:** The image links *casa* to a house with a castle-like crown on top.
+- **Mnemonic idea:** The image links *casa* to a house with a castle-like crown on top. 
 - **Image file:** `casa.png`
 
 ## 2. gato
 - **English meaning:** cat
-- **Mnemonic idea:** The image links *gato* to a cat sitting on a gate.
+- **Mnemonic idea:** The image links *gato* to a cat sitting on a gate
 - **Image file:** `gato.png`
 
 ## 3. perro
 - **English meaning:** dog
-- **Mnemonic idea:** The image links *perro* to a “pair o’” dogs by showing two dogs together. 
+- **Mnemonic idea:** The image links *perro* to a “pair o’” dogs by showing two dogs together.
 - **Image file:** `perro.png`
 
 ## 4. agua
 - **English meaning:** water
-- **Mnemonic idea:** The image links *agua* to *aqua* by showing water clearly labelled “aqua.” 
+- **Mnemonic idea:** The image links *agua* to *aqua* by showing water clearly labelled “aqua.” This is not very helpful because it depends on written English text rather than a memorable visual scene, making it less effective as a true visual mnemonic.
 - **Image file:** `agua.png`
 
 ## 5. pan
@@ -29,32 +29,32 @@ This file lists the Spanish vocabulary items explored for mnemonic generation an
 
 ## 6. leche
 - **English meaning:** milk
-- **Mnemonic idea:** The image links *leche* to “let’s shake” by showing a person shaking milk. 
+- **Mnemonic idea:** The image links *leche* to “let’s shake” by showing a person shaking milk. This is weaker because the sound resemblance is stretched.
 - **Image file:** `leche.png`
 
 ## 7. sol
 - **English meaning:** sun
-- **Mnemonic idea:** The image links *sol* to *soul* by showing a bright smiling sun with a visible soul-like character. 
+- **Mnemonic idea:** The image links *sol* to *soul* by showing a bright smiling sun with a visible soul-like character. This is weaker because the added soul concept can not be explicitly shown in an image.
 - **Image file:** `sol.png`
 
 ## 8. luna
 - **English meaning:** moon
-- **Mnemonic idea:** The image links *luna* to “loony” by showing a silly moon wearing a hat. 
+- **Mnemonic idea:** The image links *luna* to “loony” by showing a silly moon wearing a hat. This is weaker because the cue depends on personality or mood rather than a strong sound-based object, so the learner may remember “funny moon” but not the pronunciation link.
 - **Image file:** `luna.png`
 
 ## 9. mano
 - **English meaning:** hand
-- **Mnemonic idea:** The image links *mano* to *man* by showing a man holding a giant hand.
+- **Mnemonic idea:** The image links *mano* to *man* by showing a man holding a giant hand. 
 - **Image file:** `mano.png`
 
 ## 10. ojo
 - **English meaning:** eye
-- **Mnemonic idea:** The image links *ojo* to “oh no!” by showing a surprised eyeball with a shocked expression.
+- **Mnemonic idea:** The image links *ojo* to “oh no!” by showing a surprised eyeball with a shocked expression. This is weaker because the emotion of the eyeball can not be represented clearly to link to *oh no!*.
 - **Image file:** `ojo.png`
 
 ## 11. mesa
 - **English meaning:** table
-- **Mnemonic idea:** The image links *mesa* to *mess* by showing a messy table.
+- **Mnemonic idea:** The image links *mesa* to *mess* by showing a messy table. 
 - **Image file:** `mesa.png`
 
 ## 12. libro
@@ -64,27 +64,27 @@ This file lists the Spanish vocabulary items explored for mnemonic generation an
 
 ## 13. silla
 - **English meaning:** chair
-- **Mnemonic idea:** The image links *silla* to “see ya” by showing a chair waving goodbye.
+- **Mnemonic idea:** The image links *silla* to “see ya” by showing a chair waving goodbye. 
 - **Image file:** `silla.png`
 
 ## 14. zapato
 - **English meaning:** shoe
-- **Mnemonic idea:** The image links *zapato* to “zap a toe” by showing a shoe and a hand zapping a toe.
+- **Mnemonic idea:** The image links *zapato* to “zap a toe” by showing a shoe and a hand zapping a toe. 
 - **Image file:** `zapato.png`
 
 ## 15. amigo
 - **English meaning:** friend
-- **Mnemonic idea:** The image links *amigo* to “me go” by showing two friends hugging while one gestures for the other to come along. 
+- **Mnemonic idea:** The image links *amigo* to “me go” by showing two friends hugging. This is weaker because the sound cue is quite stretched and the action does not relate to "me go" at all.
 - **Image file:** `amigo.png`
 
 ## 16. coche
 - **English meaning:** car
-- **Mnemonic idea:** The image links *coche* to *coach* by showing a car wearing a coach’s hat and whistle.
+- **Mnemonic idea:** The image links *coche* to *coach* by showing a car wearing a coach’s hat and whistle. 
 - **Image file:** `coche.png`
 
 ## 17. fruta
 - **English meaning:** fruit
-- **Mnemonic idea:** The image links *fruta* to *fruit* directly by showing a clear basket of fruit.
+- **Mnemonic idea:** The image links *fruta* to *fruit* directly by showing a clear basket of fruit. This is weak as a mnemonic because it mostly depends on the words already being very similar, rather than creating a distinctive memory aid.
 - **Image file:** `fruta.png`
 
 ## 18. escuela
@@ -94,10 +94,10 @@ This file lists the Spanish vocabulary items explored for mnemonic generation an
 
 ## 19. rosa
 - **English meaning:** rose
-- **Mnemonic idea:** The image links *rosa* to *rose* by showing a clear picture of a rose. 
+- **Mnemonic idea:** The image links *rosa* to *rose* by showing a clear picture of a rose. This is weak as a mnemonic because it relies almost entirely on the similarity between the Spanish and English words, rather than adding a stronger memory cue.
 - **Image file:** `rosa.png`
 
 ## 20. playa
 - **English meaning:** beach
-- **Mnemonic idea:** The image links *playa* to *player* by showing a football player relaxing on a beach.
+- **Mnemonic idea:** The image links *playa* to *player* by showing a football player relaxing on a beach. 
 - **Image file:** `playa.png`
