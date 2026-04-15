@@ -16,7 +16,7 @@ Generation in Mandarin was not pursued further because the early outputs were le
 
 - weak or unnatural sound-based mnemonic links
 - outputs that relied too heavily on literal text rather than effective visual mnemonic structure
-- reduced clarity for beginner learners unfamiliar with the writing system
+- missing pinyin
 - difficulty producing strong visual cues that supported both pronunciation and meaning in a simple, beginner-friendly way
 
 These early limitations made Mandarin a poor fit for the final controlled study, especially compared with Polish.
