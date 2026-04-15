@@ -3,7 +3,7 @@
 ## Project overview
 This repository contains the artefacts for my final year project, **Multi-Media Language Learning with AI**.
 
-The project investigates whether AI-generated mnemonic materials can support beginner foreign-language vocabulary learning, with a particular focus on **visual keyword mnemonics**. The core idea is that a learner may remember a new foreign word more effectively when it is linked to a familiar English sound cue and a clear visual scene that reinforces the true meaning.
+The project investigates whether AI-generated mnemonic materials can support beginner foreign-language vocabulary learning, with a particular focus on **visual keyword mnemonics**. The core idea is that a learner may remember a new foreign word more effectively when it is linked to a familiar English sound cue and a clear visual scene that reinforces the true meaning. The final mnemonics produced and used in the experiment was produced by ChatGPT-5 with DALL·E 3.
 
 The project began with exploratory work on mnemonic theory, keyword-method literature, and prompt-based generation across multiple languages and models. Following this exploration, the final controlled experiment focused on **Polish vocabulary** in order to produce a more interpretable and controlled study.
 
