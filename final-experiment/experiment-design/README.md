@@ -15,4 +15,3 @@ This folder contains:
 - the group allocation and condition mapping
 - the participant inclusion criteria
 
-These files are included so that the experimental design can be understood without relying only on the dissertation text.
