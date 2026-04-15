@@ -47,7 +47,7 @@ Contains summaries of the immediate and delayed results, along with short interp
 Contains the quality criteria used to judge whether an AI-generated mnemonic image was acceptable, clear, and educationally useful.
 
 ### `exploratory-generation/`
-Contains the mnemonics generated during the exploratory stage. The 10 polish words out of 20 that weren't chosen for the final experiment, 20 spanish words and a few mandarin words.
+Contains the non-chosen mnemonics generated during the exploratory stage.
 
 ## Final vocabulary set
 The final experiment used the following Polish words:
