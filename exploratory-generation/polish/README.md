@@ -1,4 +1,4 @@
-# Exploratory Polish Materials
+# Exploratory Polish Materials (Not selected)
 
 This folder contains exploratory Polish mnemonic items generated during the broader development phase of the project.
 
