@@ -17,7 +17,7 @@ In particular, this exploratory work helped answer questions such as:
 
 ## Important note on model choice
 
-All materials in this folder were generated using **ChatGPT**.
+All materials in this folder were generated using ChatGPT-5 with DALL·E
 
 Gemini was tested briefly during the early exploratory stage, especially on Polish examples, but it was abandoned early because its outputs were often more sentence-like than mnemonic, less visually distinctive, and less useful for this project. For that reason, the exploratory artefacts preserved here are ChatGPT-based outputs rather than a full cross-model archive.
 
