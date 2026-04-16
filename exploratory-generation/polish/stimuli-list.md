@@ -4,7 +4,7 @@ This file lists the additional Polish vocabulary items generated during explorat
 
 ## 1. słońce
 - **English meaning:** sun
-- **Mnemonic idea:** The image links *słońce* to “swan say” by showing a swan talking. The idea was intended as a pronunciation cue, but the connection to the true meaning, *sun*, is weak.
+- **Mnemonic idea:** The image links *słońce* to “swan say” by showing a swan talking to the sun. The idea was intended as a pronunciation cue, but the connection to the true meaning, *sun*, is weak.
 - **Image file:** `slonce_notchosen.png`
 
 ## 2. noga
